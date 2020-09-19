@@ -3,3 +3,4 @@ Face detection using Haar cascades is a machine learning based approach where a 
 
 Note: You need to download the haarcascade_frontalface_default.xml file.
 
+![Result](https://github.com/vishwasgarg24/Face-Detection/blob/master/result.png)
